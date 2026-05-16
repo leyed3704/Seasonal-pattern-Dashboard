@@ -19,8 +19,11 @@ KPI's
 
  
   ## Project Insight  
-- The dashboard shows a very strong overall profit of 197.30M.
-- Revenue per mile (2.44) is significantly higher than cost per mile (0.83), indicating efficient operations.
-- Cities like Seattle, Charlotte, and Columbus appear to contribute the highest profits.
-- Destination states such as OR, CA, and WA generate a large share of total revenue.
+- Load volume is stable throughout the year — monthly loads stay around ~7K with only minor dips (like February).
+- Revenue is consistent with slight peaks — most months generate similar revenue, with a few higher months like December.
+- Miles driven are very uniform — total miles show almost no fluctuation, indicating steady operations.
+- Rate per mile remains steady — pricing doesn’t vary much seasonally, suggesting stable market rates or fixed contracts.
 ## Conclusions
+- Business demand is not highly seasonal — operations remain consistent across months.
+- Growth opportunities may require external expansion — since current volume is flat.
+- Stable pricing limits revenue spikes — increasing rates or optimizing routes could improve profitability.
